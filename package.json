@@ -1,0 +1,23 @@
+{
+  "name": "hyperscript-tzk",
+  "version": "1.0.0",
+  "description": "Experimental approach to DOM Elements \"CRUD\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tzkmx/hyperdom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tzkmx/hyperdom/issues"
+  },
+  "homepage": "https://github.com/tzkmx/hyperdom#readme",
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}
