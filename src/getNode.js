@@ -4,7 +4,6 @@ var getNode = function (domApi) {
     if (typeof attributes === 'object') {
       var keys = Object.keys(attributes)
       for (var idx = 0; idx < keys.length; idx++) {
-        console.log(keys[idx], attributes[keys[idx]])
         element[keys[idx]] = attributes[keys[idx]]
       }
     }
@@ -16,4 +15,3 @@ var getNode = function (domApi) {
     return element
   }
 }
-export default getNode
